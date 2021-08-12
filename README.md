@@ -132,13 +132,11 @@ Privacy & terms
 
 - Navigation
 - Hero
-- Features
-- How it works
-- Dates
-- Meals
-- CTA
-- Pricing
-- Gallery
-- Testimonials
 - Featured in
+- How it works
+- Meals (and list of diets)
+- Testimonials + Gallery
+- Pricing
+- Features
+- CTA
 - Footer
